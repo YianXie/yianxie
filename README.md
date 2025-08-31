@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yian Xie</h1>
-<h3 align="center">A passionate frontend and web developer in Singapore 🇸🇬</h3>
+<h3 align="center">A passionate web developer in Singapore 🇸🇬</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yianxie&label=Profile%20views&color=0e75b6&style=flat" alt="yianxie" /> </p>
 
-- 🔭 I’m currently working on [SAS Market App](https://github.com/Summer-2025-App-Dev-Team/market-app)
+- 🔭 I’m currently working on [KataGo Visualizer](https://github.com/YianXie/katago-visualizer)
 
 - 🌱 I’m currently learning **Django and React**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-rxg7.onrender.com/](https://personal-portfolio-rxg7.onrender.com/)
+- 👨‍💻 All of my projects are available at [www.yianxie.me](https://yianxie.me)
 
 - 💬 Ask me about **HTML, JavaScript, and CSS**
 
