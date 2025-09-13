@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yianxie&label=Profile%20views&color=0e75b6&style=flat" alt="yianxie" /> </p>
 
-- 🔭 I’m currently working on [KataGo Visualizer](https://github.com/YianXie/katago-visualizer)
+- 🔭 I’m currently working on [LucidGo](https://github.com/YianXie/LucidGo)
 
 - 🌱 I’m currently learning **Django and React**
 
-- 👨‍💻 All of my projects are available at [www.yianxie.me](https://yianxie.me)
+- 👨‍💻 All of my projects are available at [yianxie.me](https://yianxie.me)
 
 - 💬 Ask me about **HTML, JavaScript, and CSS**
 
