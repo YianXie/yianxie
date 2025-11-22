@@ -24,21 +24,26 @@
 
 <br>
 
-<table border="0">
-  <tr>
-    <th style="font-size: 1.2em; padding-bottom: 10px;">GitHub Stats </th>
-    <th style="font-size: 1.2em; padding-bottom: 10px;">Top Languages </th>
-  </tr>
-  <tr>
-    <!-- GitHub Stats -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yianxie&show_icons=true&theme=algolia" alt="YianXie's GitHub Stats">
-    </td>
-    <!-- Top Languages -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yianxie&layout=compact&theme=algolia" alt="Top Langs">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h2>My Stats</h2>
+  <table border="0">
+    <tr>
+      <th style="font-size: 1.2em; padding-bottom: 10px;">GitHub Stats </th>
+      <th style="font-size: 1.2em; padding-bottom: 10px;">Top Languages </th>
+    </tr>
+    <tr>
+      <!-- GitHub Stats -->
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=yianxie&show_icons=true&theme=algolia" alt="YianXie's GitHub Stats">
+      </td>
+      <!-- Top Languages -->
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yianxie&layout=compact&theme=algolia" alt="Top Langs">
+      </td>
+    </tr>
+  </table>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yianxie&show_icons=true&locale=en" alt="yianxie" /></p> -->
+  <br>
+  
+  <img src="https://stable-github-profile-trophy.vercel.app?username=yianxie&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="YianXie's Trophies" >
+</div>
