@@ -45,5 +45,5 @@
 
   <br>
   
-  <img src="https://stable-github-profile-trophy.vercel.app?username=yianxie&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="YianXie's Trophies" >
+  <img src="https://stable-github-profile-trophy.vercel.app?username=yianxie&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="YianXie's Trophies" >
 </div>
