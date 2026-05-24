@@ -20,7 +20,7 @@
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,mui,redux,sass,bootstrap" /> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="Chart.js" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,mui" /> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="Chart.js" width="48" height="48"/>
 
 ### Backend
 
