@@ -24,7 +24,7 @@
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,nginx" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,nginx" />
 
 ### Databases
 
@@ -36,7 +36,7 @@
 
 ### Tools & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,aws,figma,postman,gradle" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,aws,figma,postman" />
 
 ***
 
