@@ -75,13 +75,13 @@ Today I build full-stack web apps (React + Django / FastAPI), train neural netwo
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-yianxie.vercel.app/api?username=YianXie&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=f5c518&icon_color=f5c518" />
-  <img src="https://github-readme-stats-yianxie.vercel.app/api?username=YianXie&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=b58900&icon_color=b58900" alt="GitHub stats" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-theta-11.vercel.app/api?username=YianXie&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=f5c518&icon_color=f5c518" />
+  <img src="https://github-readme-stats-snowy-theta-11.vercel.app/api?username=YianXie&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=b58900&icon_color=b58900" alt="GitHub stats" height="165" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-yianxie.vercel.app/api/top-langs/?username=YianXie&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=f5c518&hide=html,css" />
-  <img src="https://github-readme-stats-yianxie.vercel.app/api/top-langs/?username=YianXie&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=b58900&hide=html,css" alt="Top languages" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-theta-11.vercel.app/api/top-langs/?username=YianXie&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=f5c518&hide=html,css" />
+  <img src="https://github-readme-stats-snowy-theta-11.vercel.app/api/top-langs/?username=YianXie&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=b58900&hide=html,css" alt="Top languages" height="165" />
 </picture>
 
 <picture>
