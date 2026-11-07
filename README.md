@@ -91,17 +91,11 @@ Today I build full-stack web apps (React + Django / FastAPI), train neural netwo
 
 </div>
 
-## ⚪ Black to play — `cat ~/tsumego/today.txt`
+## ⚫ Black to play — `cat ~/tsumego/today.txt`
+
+<img src="assets/tsumego.svg" alt="Tsumego board: black stones at D6, D5, C4, C3, F3, G3, C2, D2, E2; white stones at E5, F5, H5, D4, F4, J4, D3, E3" width="408" />
 
 ```text
-     A  B  C  D  E  F  G  H  J
-  6  ·  ·  ·  ●  ·  ·  ·  ·  ·
-  5  ·  ·  ·  ●  ○  ○  ·  ○  ·
-  4  ·  ·  ●  ○  ·  ○  ·  ·  ○
-  3  ·  ·  ●  ○  ○  ●  ●  ·  ·
-  2  ·  ·  ●  ●  ●  ·  ·  ·  ·
-  1  ·  ·  ·  ·  ·  ·  ·  ·  ·
-
   Black to play and kill. White looks like it has an eye. It doesn't.
   (Easy, I know. The point is that Kifu-Sensei would explain *why*.)
 ```
